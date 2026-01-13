@@ -64,7 +64,7 @@ python setup_model.py
 *** Kiểm tra thành công *** 
 Nếu Bước 4 hiện thông báo:
 
-`THÀNH CÔNG! Môi trường và Model đã sẵn sàng.`
+`Model loaded and ready!`
 
 --- You're all done! See you at this exciting training session. ---
 
